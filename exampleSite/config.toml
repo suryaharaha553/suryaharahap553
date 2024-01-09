@@ -1,6 +1,6 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://suryaharahap553.github.io/"
 # title = "Hugo Themes"
-author = "Steve Francia"
+author = "Surya Harahap"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -17,12 +17,12 @@ title = "Paper"
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  twitter = 'suryaharahap'
+  github = 'suryaharahap'
+  instagram = 'sryahrp'
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
+  avatar = 'suryaharahap18@gmail.com'
+  name = 'Surya'
   bio = 'Discover fresh context'
 # ------------------------------
 
